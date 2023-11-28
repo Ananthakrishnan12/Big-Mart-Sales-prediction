@@ -31,12 +31,21 @@ Outlet_Location_Type ---- The type of city in which the store is located
 Outlet_Type ---- whether the outlet is just a grocery store or some sort of supermarket
 
 steps involved in this Model:
+
 1.Data Preprocessing.
+
 2.EDA
+
 3.Feature Engineering
+
 4.Feature scaling
+
 5.Model selection
+
 6.Model Training (Regression Models)
+
 7.Model Testing
+
 8.Performance metrics
+
 9.Model Deployment (Flask)
